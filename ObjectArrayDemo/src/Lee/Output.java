@@ -1,10 +1,10 @@
 package Lee;
-
+//声明一个接口Output
 public interface Output {
     //接口里定义的成员变量只能常量
     int MAX_CACHE_LINE=50;
     //接口里定义的方法只能是public的抽象方法
-    void Output();
+    void out();
     void getData(String msg);
     //接口中定义默认方法，要使用default修饰
     default void print(String... msgs)

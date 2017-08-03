@@ -22,16 +22,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lee/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46231157">
+            <state vertical-scroll-proportion="0.0">
               <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="e#474#475#0" expanded="true" />
                 <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Output.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lee/Output.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding>
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lee/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Printer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lee/Printer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7512563">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding>
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,7 +102,6 @@
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/Person.java" />
         <option value="$PROJECT_DIR$/src/PersonTest.java" />
-        <option value="$PROJECT_DIR$/src/Lee/Output.java" />
         <option value="$PROJECT_DIR$/src/Lee/Print.java" />
         <option value="$PROJECT_DIR$/src/SeasonEnum.java" />
         <option value="$PROJECT_DIR$/src/EnumSeason.java" />
@@ -89,6 +122,9 @@
         <option value="$PROJECT_DIR$/src/Lee/MaxMin.java" />
         <option value="$PROJECT_DIR$/src/Lee/Shape.java" />
         <option value="$PROJECT_DIR$/src/Lee/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/Lee/Product.java" />
+        <option value="$PROJECT_DIR$/src/Lee/Output.java" />
+        <option value="$PROJECT_DIR$/src/Lee/Printer.java" />
       </list>
     </option>
   </component>
@@ -189,21 +225,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
   </component>
-  <component name="RunManager" selected="Application.Triangle">
-    <configuration default="false" name="MapTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.MapTest2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ObjectArrayDemo" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Printer">
     <configuration default="false" name="DiamondTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.DiamondTest" />
       <option name="VM_PARAMETERS" />
@@ -248,6 +270,20 @@
     </configuration>
     <configuration default="false" name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lee.Triangle" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ObjectArrayDemo" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lee.Printer" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -368,19 +404,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MapTest2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DiamondTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MaxMin" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Triangle" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DiamondTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestSort" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MaxMin" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Triangle" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Printer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Triangle" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MaxMin" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DiamondTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MapTest2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Printer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Triangle" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MaxMin" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestSort" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DiamondTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -401,7 +437,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -441,20 +477,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lee/Output.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Students.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lee/Output.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -658,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lee/Output.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/EnumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -711,9 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,9 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,7 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,13 +815,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lee/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46231157">
+        <state vertical-scroll-proportion="0.0">
           <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding>
             <element signature="e#474#475#0" expanded="true" />
             <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lee/Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lee/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lee/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7512563">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
           </folding>
         </state>
       </provider>
